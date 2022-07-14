@@ -23,6 +23,12 @@ Special thanks to all team members (wonderful collaborators):
 # Project Overview
 Simply put, it's a back-and-forth "fill-in-the-blank" visual card game with friends!
 
+## Key Features
+- Animated border to support immersion and enhance design
+- Text-based prompt randomizer and generator
+
+## How it Works
+
 1. When using our Lens, a card/speech bubble appears over the user's head, continuously generating random fill-in-the-blank text prompts.
 
 2. The user **raises their eyebrows** to stop and select a randomized text prompt.
@@ -34,7 +40,11 @@ Simply put, it's a back-and-forth "fill-in-the-blank" visual card game with frie
 5. Now the recipient can ~~totally not judge~~ view their friend's prompt and answer, and reply with their own creative prompt-answer selfie!
 
 ## Project Demo
-[TBD: Demo YouTube link goes here]
+Here you'll find a small preview of our Lens in action:
+
+![snap-ar-lensathon-2022-preview](https://user-images.githubusercontent.com/104600260/178922038-e62f193a-cbf6-4cd9-9b76-8d4c2a887b07.gif)
+
+(Thanks for being our mascot!)
 
 
 &nbsp;
