@@ -47,3 +47,7 @@ Future work in mind for this project includes:
 - Add more text prompts
 - Add more interactive UI elements
 - Add/improve multiplayer Lens (Connected Lens) support
+
+&nbsp;
+### Notes for Collaborators
+*(Remaining TODO items are listed/noted under the [**Projects** tab](https://github.com/jadonscombs/snap-lensathon-2022-team-blue/projects/1))*
