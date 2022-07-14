@@ -26,6 +26,7 @@ Simply put, it's a back-and-forth "fill-in-the-blank" visual card game with frie
 ## Key Features
 - Animated border to support immersion and enhance design
 - Text-based prompt randomizer and generator
+- Unique curated prompts
 
 ## How it Works
 
