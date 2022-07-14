@@ -33,6 +33,9 @@ Simply put, it's a back-and-forth "fill-in-the-blank" visual card game with frie
 
 5. Now the recipient can ~~totally not judge~~ view their friend's prompt and answer, and reply with their own creative prompt-answer selfie!
 
+## Project Demo
+[TBD: Demo YouTube link goes here]
+
 
 &nbsp;
 # Tools Used
@@ -47,3 +50,7 @@ Future work in mind for this project includes:
 - Add more text prompts
 - Add more interactive UI elements
 - Add/improve multiplayer Lens (Connected Lens) support
+
+&nbsp;
+### Notes for Collaborators
+*(Remaining TODO items are listed/noted under the [**Projects** tab](https://github.com/jadonscombs/snap-lensathon-2022-team-blue/projects/1))*
