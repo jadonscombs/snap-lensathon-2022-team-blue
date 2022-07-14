@@ -10,6 +10,7 @@ Initial Date: 13 July 2022
 Courtesy of [Snap Inc.](https://www.snap.com/en-US) and [Snapchat](https://www.snapchat.com/), and hosted by [devpost](https://snaplensathon.devpost.com/).
 
 This repository holds our submission for the Snap AR Lensathon 2022 hackathon, which falls under the "Interactive Play" development category.
+
 Special thanks to all team members (wonderful collaborators):
 
 - **Nico** (Project Coordinator and Head Developer)
